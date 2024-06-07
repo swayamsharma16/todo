@@ -8,6 +8,7 @@ This is a simple TODO application built with Next.js and React.
 - Add new tasks
 - Mark tasks as completed
 - Delete tasks
+- Edit Task
 
 
 
